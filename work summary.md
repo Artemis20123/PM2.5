@@ -1,7 +1,5 @@
 1. raw data zip: download data from https://zenodo.org/record/6398971#.Y_w6H3ZBy3A
 
-<img src="C:\Users\Lijh\AppData\Roaming\Typora\typora-user-images\image-20230307092814761.png" alt="image-20230307092814761" style="zoom:80%;" />
-
 2. raw data (nc files): uncompress the zip files
 
 3. daily tiff: transform nc files to tiff files
